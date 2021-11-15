@@ -38,3 +38,4 @@ principal();
 /* Llamo a la funcion main para que muestre un alerta al usuario, donde explique en que
 consiste el programa. Y que el usuario ingrese el total de mesas habilitadas en el dia. Luego ejecuto la funcion
 recaudacionDia, que a su vez llama a la funcion totalMesa. */
+
